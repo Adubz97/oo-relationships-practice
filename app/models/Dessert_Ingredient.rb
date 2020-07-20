@@ -13,5 +13,4 @@ class Dessert_Ingredient
     def self.all
         @@all
     end
-
 end

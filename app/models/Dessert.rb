@@ -1,5 +1,3 @@
-
-
 class Dessert
 
     @@all = []
@@ -37,11 +35,5 @@ class Dessert
         all_calories = calorie_array.inject(0, :+)
         all_calories.to_f
     end
-
-
-
-
-
-
 
 end
